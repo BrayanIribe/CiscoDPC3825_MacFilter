@@ -29,4 +29,4 @@ router.php [opciones] -m [macs]
 
 No es necesario codificar los Mac Address según el RFC 3986. La aplicación lo hace solo. Para específicar dispositivos según su MAC hay que delimitarlos con comas por ejemplo:
 
- router.php -b -m 00:00:00:00:00:00, 00:00:00:00:00:00
+ router.php -b -m 00:00:00:00:00:00,00:00:00:00:00:00
